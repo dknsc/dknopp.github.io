@@ -10,7 +10,7 @@ title:            Daniel Knopp, MPP
 tagline:          'Senior Research Analyst'
 description:      'Working at the intersection of technology and policy'
 url:              dknsc.github.io/dknopp.github.io
-baseurl:          /dknopp.github.io
+baseurl:          dknopp.github.io
 
 author:
   name:           'Daniel Knopp'
