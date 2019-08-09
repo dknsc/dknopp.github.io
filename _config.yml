@@ -24,4 +24,4 @@ version:          2.1.0
 github:
   repo:           https://github.com/poole/hyde
 
-pages_list:       {'About':'/about','Archive':'/archive','Feed':'/atom.xml'}
+pages_list:       {'About':'/about','CV':'/cv','Data Projects':'/dataproj'}
