@@ -24,15 +24,19 @@ version:          2.1.0
 github:
   repo:           https://github.com/poole/hyde
 
-menu:
-  - title: Resume
-    url:   /resume/
-  - title: About
-    url:   /about/
-  - title: Projects
-    url:   /projects/
-
-collections:
-  projects:
-    permalink: /projects/:path/
-    output:    true
+defaults:
+  - scope:
+      path: about.md
+    values:
+      menu: true
+      order: 1
+  - scope:
+      path: projects.md
+    values:
+      menu: true
+      order: 2
+  - scope:
+      path: cv.md
+    values:
+      menu: true
+      order: 3
