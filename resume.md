@@ -1,5 +1,5 @@
 ---
-# file: resume.md
+# file: cv.md
 layout: resume
 title:  Resume
 description: >
